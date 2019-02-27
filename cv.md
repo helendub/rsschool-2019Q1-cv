@@ -1,7 +1,11 @@
 **Alena Chyrskaya**
+
 **Contacts**: achyrskaya@gmail.com, +375293178869
+
 **Summary**: I aim to be a true professional in IT development starting from researching and practical realisation to implementation. I am good in problem solving: through comparing different ways of resolving issue I choose the best one. At the same time I am a faster learner, able to learn new information and program fast enough. 
+
 **Skills**: HTML/CSS, JavaScript, Git, Agile/Scrum, CRM (1C)
+
 **Experience**:
 April 2015 - Present: freelancer:administration of online educational projects:
 *creating landing pages [page for course "Administrator Instagram"](http://goloshchapova.getcourse.ru/instagram), [site Academy BTI](https://academia-bti.ru/), [page ARTPolyglot](https://artpolyglot.ru/)
