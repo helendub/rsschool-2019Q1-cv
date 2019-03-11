@@ -1,0 +1,11 @@
+body {
+  font-family: "Segoe UI", "Helvetica" , "Arial" , sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #24292e;
+}
+
+.container-cv {
+  max-width: 1024px;
+  margin: 0 auto;
+}
